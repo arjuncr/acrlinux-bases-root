@@ -1,0 +1,20 @@
+
+Start-Date: 2021-01-16  17:33:12
+Commandline: apt install vim
+Install: vim-runtime:amd64 (2:8.1.0875-5, automatic), vim:amd64 (2:8.1.0875-5), libgpm2:amd64 (1.20.7-5, automatic)
+End-Date: 2021-01-16  17:33:13
+
+Start-Date: 2021-01-16  17:35:30
+Commandline: apt-get install linux-image-4.19.0-13-amd64
+Install: libpython3.7-minimal:amd64 (3.7.3-2+deb10u2, automatic), linux-image-4.19.0-13-amd64:amd64 (4.19.160-2), libsqlite3-0:amd64 (3.27.2-3+deb10u1, automatic), linux-base:amd64 (4.6, automatic), python3.7:amd64 (3.7.3-2+deb10u2, automatic), python3:amd64 (3.7.3-1, automatic), mime-support:amd64 (3.62, automatic), libklibc:amd64 (2.0.6-1, automatic), libmagic1:amd64 (1:5.35-4+deb10u1, automatic), libmpdec2:amd64 (2.4.2-2, automatic), libpython3.7-stdlib:amd64 (3.7.3-2+deb10u2, automatic), libexpat1:amd64 (2.2.6-2+deb10u1, automatic), python3.7-minimal:amd64 (3.7.3-2+deb10u2, automatic), firmware-linux-free:amd64 (3.4, automatic), python3-minimal:amd64 (3.7.3-1, automatic), libmagic-mgc:amd64 (1:5.35-4+deb10u1, automatic), libpython3-stdlib:amd64 (3.7.3-1, automatic), xz-utils:amd64 (5.2.4-1, automatic), libreadline7:amd64 (7.0-5, automatic), bzip2:amd64 (1.0.6-9.2~deb10u1, automatic), busybox:amd64 (1:1.30.1-4, automatic), file:amd64 (1:5.35-4+deb10u1, automatic), apparmor:amd64 (2.13.2-10, automatic), pigz:amd64 (2.4-1, automatic), klibc-utils:amd64 (2.0.6-1, automatic), initramfs-tools-core:amd64 (0.133+deb10u1, automatic), initramfs-tools:amd64 (0.133+deb10u1, automatic)
+End-Date: 2021-01-16  17:35:59
+
+Start-Date: 2021-01-16  17:36:06
+Commandline: apt-get install grub2
+Install: libefivar1:amd64 (37-2+deb10u1, automatic), os-prober:amd64 (1.77, automatic), grub-common:amd64 (2.02+dfsg1-20+deb10u2, automatic), libefiboot1:amd64 (37-2+deb10u1, automatic), grub2-common:amd64 (2.02+dfsg1-20+deb10u2, automatic), grub-pc:amd64 (2.02+dfsg1-20+deb10u2, automatic), grub-pc-bin:amd64 (2.02+dfsg1-20+deb10u2, automatic), libfuse2:amd64 (2.9.9-1+deb10u1, automatic), ucf:amd64 (3.0038+nmu1, automatic), grub2:amd64 (2.02+dfsg1-20+deb10u2), libfreetype6:amd64 (2.9.1-3+deb10u2, automatic), gettext-base:amd64 (0.19.8.1-9, automatic), libpng16-16:amd64 (1.6.36-6, automatic)
+End-Date: 2021-01-16  17:36:17
+
+Start-Date: 2021-01-16  17:36:55
+Commandline: apt-get install locales
+Install: locales:amd64 (2.28-10), libc-l10n:amd64 (2.28-10, automatic)
+End-Date: 2021-01-16  17:36:56
