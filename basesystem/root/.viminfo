@@ -11,10 +11,14 @@
 # hlsearch on (H) or off (h):
 ~h
 # Command Line History (newest to oldest):
+:q!
+|2,0,1610868352,,"q!"
+:WQ
+|2,0,1610866539,,"WQ"
+:wq
+|2,0,1610866534,,"wq"
 :q1
 |2,0,1610798647,,"q1"
-:wq
-|2,0,1610798630,,"wq"
 
 # Search String History (newest to oldest):
 
@@ -25,26 +29,134 @@
 # Debug Line History (newest to oldest):
 
 # Registers:
+""1	LINE	0
+	deb https://deb.debian.org/debian buster main
+|3,1,1,1,1,0,1610868307,"deb https://deb.debian.org/debian buster main"
 
 # File marks:
-'0  1  0  /etc/hosts
-|4,48,1,0,1610798647,"/etc/hosts"
-'1  8  0  /etc/network/interfaces
-|4,49,8,0,1610798630,"/etc/network/interfaces"
+'0  1  0  /etc/apt/sources.list
+|4,48,1,0,1610868352,"/etc/apt/sources.list"
+'1  2  0  /etc/apt/sources.list
+|4,49,2,0,1610868349,"/etc/apt/sources.list"
+'2  2  0  /etc/apt/sources.list
+|4,50,2,0,1610868349,"/etc/apt/sources.list"
+'3  1  0  /boot/grub/grub.cfg
+|4,51,1,0,1610866541,"/boot/grub/grub.cfg"
+'4  1  0  /etc/hosts
+|4,52,1,0,1610798647,"/etc/hosts"
+'5  8  0  /etc/network/interfaces
+|4,53,8,0,1610798630,"/etc/network/interfaces"
 
 # Jumplist (newest first):
+-'  1  0  /etc/apt/sources.list
+|4,39,1,0,1610868352,"/etc/apt/sources.list"
+-'  2  0  /etc/apt/sources.list
+|4,39,2,0,1610868349,"/etc/apt/sources.list"
+-'  2  0  /etc/apt/sources.list
+|4,39,2,0,1610868349,"/etc/apt/sources.list"
+-'  1  0  /etc/apt/sources.list
+|4,39,1,0,1610868343,"/etc/apt/sources.list"
+-'  1  0  /boot/grub/grub.cfg
+|4,39,1,0,1610866541,"/boot/grub/grub.cfg"
+-'  1  0  /boot/grub/grub.cfg
+|4,39,1,0,1610866541,"/boot/grub/grub.cfg"
+-'  1  0  /boot/grub/grub.cfg
+|4,39,1,0,1610866541,"/boot/grub/grub.cfg"
+-'  1  0  /boot/grub/grub.cfg
+|4,39,1,0,1610866541,"/boot/grub/grub.cfg"
+-'  1  0  /etc/hosts
+|4,39,1,0,1610798647,"/etc/hosts"
+-'  1  0  /etc/hosts
+|4,39,1,0,1610798647,"/etc/hosts"
+-'  1  0  /etc/hosts
+|4,39,1,0,1610798647,"/etc/hosts"
+-'  1  0  /etc/hosts
+|4,39,1,0,1610798647,"/etc/hosts"
+-'  1  0  /etc/hosts
+|4,39,1,0,1610798647,"/etc/hosts"
+-'  1  0  /etc/hosts
+|4,39,1,0,1610798647,"/etc/hosts"
+-'  1  0  /etc/hosts
+|4,39,1,0,1610798647,"/etc/hosts"
 -'  1  0  /etc/hosts
 |4,39,1,0,1610798647,"/etc/hosts"
 -'  8  0  /etc/network/interfaces
 |4,39,8,0,1610798630,"/etc/network/interfaces"
 -'  8  0  /etc/network/interfaces
 |4,39,8,0,1610798630,"/etc/network/interfaces"
+-'  8  0  /etc/network/interfaces
+|4,39,8,0,1610798630,"/etc/network/interfaces"
+-'  8  0  /etc/network/interfaces
+|4,39,8,0,1610798630,"/etc/network/interfaces"
+-'  8  0  /etc/network/interfaces
+|4,39,8,0,1610798630,"/etc/network/interfaces"
+-'  8  0  /etc/network/interfaces
+|4,39,8,0,1610798630,"/etc/network/interfaces"
+-'  8  0  /etc/network/interfaces
+|4,39,8,0,1610798630,"/etc/network/interfaces"
+-'  8  0  /etc/network/interfaces
+|4,39,8,0,1610798630,"/etc/network/interfaces"
+-'  8  0  /etc/network/interfaces
+|4,39,8,0,1610798630,"/etc/network/interfaces"
+-'  8  0  /etc/network/interfaces
+|4,39,8,0,1610798630,"/etc/network/interfaces"
+-'  8  0  /etc/network/interfaces
+|4,39,8,0,1610798630,"/etc/network/interfaces"
+-'  8  0  /etc/network/interfaces
+|4,39,8,0,1610798630,"/etc/network/interfaces"
+-'  8  0  /etc/network/interfaces
+|4,39,8,0,1610798630,"/etc/network/interfaces"
+-'  8  0  /etc/network/interfaces
+|4,39,8,0,1610798630,"/etc/network/interfaces"
+-'  8  0  /etc/network/interfaces
+|4,39,8,0,1610798630,"/etc/network/interfaces"
+-'  8  0  /etc/network/interfaces
+|4,39,8,0,1610798630,"/etc/network/interfaces"
+-'  1  0  /etc/network/interfaces
+|4,39,1,0,1610798600,"/etc/network/interfaces"
+-'  1  0  /etc/network/interfaces
+|4,39,1,0,1610798600,"/etc/network/interfaces"
+-'  1  0  /etc/network/interfaces
+|4,39,1,0,1610798600,"/etc/network/interfaces"
+-'  1  0  /etc/network/interfaces
+|4,39,1,0,1610798600,"/etc/network/interfaces"
+-'  1  0  /etc/network/interfaces
+|4,39,1,0,1610798600,"/etc/network/interfaces"
+-'  1  0  /etc/network/interfaces
+|4,39,1,0,1610798600,"/etc/network/interfaces"
+-'  1  0  /etc/network/interfaces
+|4,39,1,0,1610798600,"/etc/network/interfaces"
+-'  1  0  /etc/network/interfaces
+|4,39,1,0,1610798600,"/etc/network/interfaces"
+-'  1  0  /etc/network/interfaces
+|4,39,1,0,1610798600,"/etc/network/interfaces"
+-'  1  0  /etc/network/interfaces
+|4,39,1,0,1610798600,"/etc/network/interfaces"
+-'  1  0  /etc/network/interfaces
+|4,39,1,0,1610798600,"/etc/network/interfaces"
+-'  1  0  /etc/network/interfaces
+|4,39,1,0,1610798600,"/etc/network/interfaces"
+-'  1  0  /etc/network/interfaces
+|4,39,1,0,1610798600,"/etc/network/interfaces"
+-'  1  0  /etc/network/interfaces
+|4,39,1,0,1610798600,"/etc/network/interfaces"
 -'  1  0  /etc/network/interfaces
 |4,39,1,0,1610798600,"/etc/network/interfaces"
 -'  1  0  /etc/network/interfaces
 |4,39,1,0,1610798600,"/etc/network/interfaces"
 
 # History of marks within files (newest to oldest):
+
+> /etc/apt/sources.list
+	*	1610868349	0
+	"	1	0
+	^	2	0
+	.	1	0
+	+	1	0
+
+> /boot/grub/grub.cfg
+	*	1610866539	0
+	"	1	0
 
 > /etc/hosts
 	*	1610798644	0

@@ -1,18 +1,2 @@
-<device DEVNO="0x0801" TIME="1610798775.443837" UUID="d5578a4b-4796-4f86-97e6-35187f85e647" UUID_SUB="f7882251-d329-49c2-875a-8846a370c0cd" TYPE="btrfs" PARTUUID="34ac266b-01">/dev/sda1</device>
-<device DEVNO="0x0806" TIME="1610798775.679826" UUID="0604219c-4617-4827-b5d4-f710e1c36d83" TYPE="ext4" PARTUUID="34ac266b-06">/dev/sda6</device>
-<device DEVNO="0x0700" TIME="1610798776.1216" TYPE="squashfs">/dev/loop0</device>
-<device DEVNO="0x0701" TIME="1610798776.9244" TYPE="squashfs">/dev/loop1</device>
-<device DEVNO="0x0702" TIME="1610798776.20031" TYPE="squashfs">/dev/loop2</device>
-<device DEVNO="0x0703" TIME="1610798776.32858" TYPE="squashfs">/dev/loop3</device>
-<device DEVNO="0x0704" TIME="1610798776.42147" TYPE="squashfs">/dev/loop4</device>
-<device DEVNO="0x0705" TIME="1610798776.47752" TYPE="squashfs">/dev/loop5</device>
-<device DEVNO="0x0706" TIME="1610798776.54753" TYPE="squashfs">/dev/loop6</device>
-<device DEVNO="0x0707" TIME="1610798776.65606" TYPE="squashfs">/dev/loop7</device>
+<device DEVNO="0x0801" TIME="1610868258.769782" UUID="5a3ff7ab-e43e-484d-bf6a-09c2ce589ddf" TYPE="ext4" PARTUUID="90ae0e58-01">/dev/sda1</device>
 <device DEVNO="0x0805" TIME="1610798776.150438" UUID="2e4b870f-1439-44f5-a675-1b194e507ecd" TYPE="swap" PARTUUID="34ac266b-05">/dev/sda5</device>
-<device DEVNO="0x0708" TIME="1610798776.175739" TYPE="squashfs">/dev/loop8</device>
-<device DEVNO="0x0709" TIME="1610798776.196009" TYPE="squashfs">/dev/loop9</device>
-<device DEVNO="0x070a" TIME="1610798776.201265" UUID="3a19aef9-814a-45fb-aa65-c01364d916aa" TYPE="ext4">/dev/loop10</device>
-<device DEVNO="0x070b" TIME="1610798776.202960" UUID="3a19aef9-814a-45fb-aa65-c01364d916aa" TYPE="ext4">/dev/loop11</device>
-<device DEVNO="0x070c" TIME="1610798776.215109" UUID="bd826ca6-11b1-45f4-82a1-d912127a513f" TYPE="ext4">/dev/loop12</device>
-<device DEVNO="0x070e" TIME="1610798776.228462" UUID="bd826ca6-11b1-45f4-82a1-d912127a513f" TYPE="ext4">/dev/loop14</device>
-<device DEVNO="0x1000700" TIME="1610798776.240106" UUID="bd826ca6-11b1-45f4-82a1-d912127a513f" TYPE="ext4">/dev/loop4096</device>
